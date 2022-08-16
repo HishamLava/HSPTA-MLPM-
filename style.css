@@ -1,0 +1,20 @@
+.image-mail{
+    width: 20px;
+}
+.phone{
+    height: 15px;
+    padding-bottom: 3px;
+}
+.commerce{
+    height: 30em;
+    background-color: aliceblue;
+    
+}
+.humanities{
+    height: 30em;
+    background-color: bisque;
+}
+.science{
+    height: 30em;
+    background-color: whitesmoke;
+}
